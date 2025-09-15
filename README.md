@@ -30,15 +30,13 @@ The goal was to design **interactive dashboards** in Power BI and apply **SQL-ba
 ## 📊 Dashboards  
 
 ### KPI Questions  
-![KPI that needs to be calculated]([screenshots/claim_frequency.png](https://github.com/ningup132-sketch/Insurance-Project/blob/main/KPI%20Questions.png))  
+![KPI that needs to be calculated](https://github.com/ningup132-sketch/Insurance-Project/blob/main/KPI%20Questions.png)  
 
 ### Excel Dashboard  
-![Excel Dashboard]([screenshots/premium_trends.png](https://github.com/ningup132-sketch/Insurance-Project/blob/main/Excel%20Dashboard.png))  
+![Excel Dashboard](https://github.com/ningup132-sketch/Insurance-Project/blob/main/Excel%20Dashboard.png)  
 
 ### High-Risk Category Analysis  
-![Power BI Dashboard]([screenshots/risk_analysis.png](https://github.com/ningup132-sketch/Insurance-Project/blob/main/Power%20BI%20Dashboard.png))  
-
-*(Replace the image paths with your actual uploaded screenshots, e.g., `screenshots/dashboard1.png`)*  
+![Power BI Dashboard](https://github.com/ningup132-sketch/Insurance-Project/blob/main/Power%20BI%20Dashboard.png)  
 
 ---
 
